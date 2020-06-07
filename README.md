@@ -5,8 +5,9 @@ This ist a autonome systems lab exersice.
 Diese Arbeit beschäftigt sich mit dem Erkennen von menschlichen Aktionen in einem 2D RGB Videostream. Es können dabei Aktionen für bis zu zwei Personen erkannt werden. Die Erkennung ist echtzeitfähig und für eine Ausführung auf einem Jetson TX2 geeignet.
 
 <p align="center">
-  Screenshot / GIF <br />
-  Link to Demo Video
+  <img src="./screenshot.png" width="50%"/>
+  <br />
+  <a href="https://youtu.be/70m7m5d9udM">Link to Demo Video on Youtube</a>
 </p>
 
 > This work was done by Janek Gass, Hoang Hai Tran, Florian Weber, Grischa Weigand during the IWI276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlruhe - Technik und Wirtschaft) in SS 2020.
