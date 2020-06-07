@@ -10,7 +10,7 @@ Diese Arbeit beschäftigt sich mit dem Erkennen von menschlichen Aktionen in ein
   <a href="https://youtu.be/70m7m5d9udM">Link to Demo Video on Youtube</a>
 </p>
 
-> This work was done by Janek Gass, Hoang Hai Tran, Florian Weber, Grischa Weigand during the IWI276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlruhe - Technik und Wirtschaft) in SS 2020.
+> This work was done by Janek Gass, Hoang Hai Tran, Florian Weber, Grischa Weigand during the IW276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlruhe - Technik und Wirtschaft) in SS 2020.
 
 ## Table of Contents
 
