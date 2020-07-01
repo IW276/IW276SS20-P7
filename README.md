@@ -1,4 +1,4 @@
-# IW276SS20P7: 3D Human Action Recognition
+# IW276SS20P7: 3D Human Action Recognition (Jetson Tx2)
 
 This ist a autonome systems lab exersice.
 
@@ -7,7 +7,7 @@ Diese Arbeit beschäftigt sich mit dem Erkennen von menschlichen Aktionen in ein
 <p align="center">
   <img src="./screenshot.png" width="50%"/>
   <br />
-  <a href="https://youtu.be/70m7m5d9udM">Link to Demo Video on Youtube</a>
+  <a href="https://youtu.be/D3UkoIC3oLU">Link to Demo Video on Youtube</a>
 </p>
 
 > This work was done by Janek Gass, Hoang Hai Tran, Florian Weber, Grischa Weigand during the IW276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlruhe - Technik und Wirtschaft) in SS 2020.
